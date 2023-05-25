@@ -55,6 +55,15 @@
       }
     },
     {
+      "identity" : "groceryappshareddto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rumenguin/GroceryAppSharedDTO.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7878cdd487ac4c3f59cb671d7d5cb238006570a0"
+      }
+    },
+    {
       "identity" : "jwt",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vapor/jwt.git",
